@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh-dandge
 - 👀 I’m interested in ...web devlopment
-- 🌱 I’m currently learning ...css
+- 🌱 I’m currently learning ...JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...contact me on my email.
 
